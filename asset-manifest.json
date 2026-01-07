@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kusum-multi-services/static/css/main.15a7aed5.css",
+    "main.js": "/kusum-multi-services/static/js/main.3add5bb7.js",
+    "static/js/453.b9ba0010.chunk.js": "/kusum-multi-services/static/js/453.b9ba0010.chunk.js",
+    "static/media/logo1.png": "/kusum-multi-services/static/media/logo1.42506ba0d3b210452b01.png",
+    "static/media/compactcombioven.png": "/kusum-multi-services/static/media/compactcombioven.a4cae2af3eac2d33e1a5.png",
+    "static/media/commercialdeepfryer.png": "/kusum-multi-services/static/media/commercialdeepfryer.34d06716d5a841928efd.png",
+    "static/media/RationalMachine.png": "/kusum-multi-services/static/media/RationalMachine.ce0b36ffaf49be7db873.png",
+    "index.html": "/kusum-multi-services/index.html",
+    "main.15a7aed5.css.map": "/kusum-multi-services/static/css/main.15a7aed5.css.map",
+    "main.3add5bb7.js.map": "/kusum-multi-services/static/js/main.3add5bb7.js.map",
+    "453.b9ba0010.chunk.js.map": "/kusum-multi-services/static/js/453.b9ba0010.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15a7aed5.css",
+    "static/js/main.3add5bb7.js"
+  ]
+}
